@@ -1,1 +1,1 @@
-# Look at the badges & certs for information
+# This contains webpages to show my current skills
